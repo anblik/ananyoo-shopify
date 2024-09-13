@@ -1,0 +1,83 @@
+.slideshow__text.banner__box {
+  max-width: none !important;
+}
+.footer-block__heading {
+    font-weight: 600;
+}
+.jdgm-review-widget .jdgm-rev-widg__title {display:none}
+
+.shopify-section .related-products__heading, .shopify-section .rich-text__heading {font-size: 25px; text-transform: uppercase}
+
+.caption-with-letter-spacing {
+  font-size: 1.2rem !important;
+}
+
+.cart-count-bubble {
+  font-size: 1.2rem !important;
+}
+
+.header__active-menu-item {
+  text-decoration: none !important;
+}
+
+.jdgm-link, .jdgm-histogram__clear-filter {
+  text-decoration: none !important;
+}
+
+.field__input:focus~.field__label, 
+.field__input:not(:placeholder-shown)~.field__label, 
+.field__input:-webkit-autofill~.field__label, 
+.customer .field input:focus~label, 
+.customer .field input:not(:placeholder-shown)~label, 
+.customer .field input:-webkit-autofill~label {
+  font-size: 1.2rem !important;
+}
+
+.newsletter-form__field-wrapper .field__input {
+  background-color: none !important;
+  box-shadow: 0 0 0 calc(.1rem + var(--inputs-border-width)) rgba(var(--color-foreground)) !important;
+  z-index: 9 !important;
+}
+
+.newsletter-form__field-wrapper .field::after {
+  background-color: #000000 !important;
+ 
+}
+
+.newsletter-form__field-wrapper .field__label {
+  color: #ffffff !important;
+  z-index: 9 !important;
+}
+
+.newsletter-form__button:not(:focus-visible):not(.focused) {
+  z-index: 9 !important;
+}
+
+.jdgm-write-rev-link.jdgm-write-rev-link {
+  border: none !important;
+}
+
+.jdgm-write-rev-link.jdgm-write-rev-link:hover {
+  opacity: 1 !important;
+}
+
+.contact .field__label {
+  color: #000000 !important;
+}
+
+.button {
+  background-color: transparent !important;
+  color: #000000 !important;
+  border: 1px solid #000000 !important;
+}
+
+.article-template__comments-comment {
+  color: #000000 !important;
+  background-color: transparent !important;
+  border: 1px solid #000000 !important;
+}
+
+.field__input, .select__select, .customer .field input, .customer select {
+  background-color: transparent !important;
+}
+
