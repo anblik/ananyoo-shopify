@@ -28,16 +28,8 @@
 
     {% render 'meta-tags' %}
 
-    {% if template == 'policy' or template == 'page.policy' %}
-      {% if page_title contains 'Refund' %}
-        <meta name="description" content="Read our refund policy to understand how we handle returns, refunds, and exchanges for your purchases.">
-      {% elsif page_title contains 'Privacy' %}
-        <meta name="description" content="Learn how we collect, use, and protect your personal information in our privacy policy.">
-      {% elsif page_title contains 'Shipping' %}
-        <meta name="description" content="Find details about our shipping timelines, rates, and delivery policies.">
-      {% elsif page_title contains 'Terms' %}
-        <meta name="description" content="Review our terms of service for information on usage, conditions, and customer rights.">
-      {% endif %}
+    {% if request.path contains '/policies/refund-policy' %}
+      <meta name="description" content="Read our Refund Policy to learn about returns, exchanges, and refund eligibility for your purchases.">
     {% endif %}
 
 
