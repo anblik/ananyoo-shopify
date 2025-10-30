@@ -28,26 +28,6 @@
 
     {% render 'meta-tags' %}
 
-    {% if request.path contains '/policies/refund-policy' %}
-      <meta name="description" content="Read our Refund Policy to learn about returns, exchanges, and refund eligibility for your purchases.">
-    {% endif %}
-
-    {% if request.path contains '/policies/terms-of-service' %}
-      <meta name="description" content="Read our Terms of Service Policy to learn about returns, exchanges, and refund eligibility for your purchases.">
-    {% endif %}
-
-    {% if request.path contains '/policies/shipping-policy' %}
-      <meta name="description" content="Read our Shipping Policy to learn about returns, exchanges, and refund eligibility for your purchases.">
-    {% endif %}
-
-    {% if request.path contains '/policies/contact-information' %}
-      <meta name="description" content="Read our Contact Information to learn about how to contact during returns, exchanges, and refund eligibility for your purchases.">
-    {% endif %}
-
-    {% if request.path contains '/policies/subscription-policy' %}
-      <meta name="description" content="Read our Subscription Policy to learn about returns, exchanges, and refund eligibility for your purchases.">
-    {% endif %}
-
     <script src="{{ 'constants.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
