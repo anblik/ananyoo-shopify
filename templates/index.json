@@ -1,1 +1,75 @@
-{"sections":{"75947161-729a-4485-92ed-79398abc0b9a":{"type":"slideshow","blocks":{"55297b22-2b7c-4e2b-946e-f2415113321b":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-4.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"SHOP NOW","link":"shopify:\/\/collections\/boys-toys","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"849dc951-cfef-479e-95a8-00a658c36fa5":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-5.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"SHOP NOW","link":"shopify:\/\/collections\/ben-10","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"b03e0726-a218-4d1b-b274-ba0a355a6cc2":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner3.jpg","heading":"","heading_size":"h0","subheading":"","button_label":"SHOP NOW","link":"shopify:\/\/pages\/contact","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"9729fcf5-dd31-4256-817a-42f55fd43e2a":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-2.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"SHOP NOW","link":"shopify:\/\/collections\/disney","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--20799519359266__75947161-729a-4485-92ed-79398abc0b9a-slide-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/banner-1.jpg","heading":"","heading_size":"h0","subheading":"","button_label":"SHOP NOW","link":"shopify:\/\/collections\/dolls","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["55297b22-2b7c-4e2b-946e-f2415113321b","849dc951-cfef-479e-95a8-00a658c36fa5","b03e0726-a218-4d1b-b274-ba0a355a6cc2","9729fcf5-dd31-4256-817a-42f55fd43e2a","template--20799519359266__75947161-729a-4485-92ed-79398abc0b9a-slide-1"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Accessible Slideshow Created by Ananyoo"}},"featured_collection":{"type":"featured-collection","settings":{"title":"Obsessive Attention. Intelligent Effort.","heading_size":"h1","description":"<p>Featured and popular products are the best-selling items for your product, product range, or company.<\/p>","show_description":false,"description_style":"body","collection":"barbie","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":true,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"0454e9c7-14e9-4f5f-a3f3-bc8e549aaa3b":{"type":"collage","blocks":{"a90d6be5-627f-4a3a-b051-2cc4740a7cbc":{"type":"collection","settings":{"collection":"boys-toys"}},"template--20799519359266__0454e9c7-14e9-4f5f-a3f3-bc8e549aaa3b-collection-1":{"type":"collection","settings":{"collection":"dolls"}},"3e65aa8e-9c4b-48de-a9a9-8b4a129d0b5e":{"type":"collection","settings":{"collection":"video-games"}}},"block_order":["a90d6be5-627f-4a3a-b051-2cc4740a7cbc","template--20799519359266__0454e9c7-14e9-4f5f-a3f3-bc8e549aaa3b-collection-1","3e65aa8e-9c4b-48de-a9a9-8b4a129d0b5e"],"settings":{"heading":"Explore more from across the Store!","heading_size":"h1","desktop_layout":"left","mobile_layout":"column","card_styles":"product-card-wrapper","color_scheme":"","padding_top":36,"padding_bottom":36}},"596c5134-608b-48ef-8d3b-67daf6e002f7":{"type":"video","settings":{"heading":"Rexy and the Volcano Funny Dinosaur Cartoon","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/youtu.be\/-GfNEDs3ERw","cover_image":"shopify:\/\/shop_images\/video-toys.jpg","description":"Rexy and the Volcano - Funny Dinosaur Cartoon for Families","full_width":false,"color_scheme":"background-1","padding_top":36,"padding_bottom":36}},"f995c9b4-80b2-409a-98d7-8130b13236e6":{"type":"collection-list","blocks":{"65ca0314-a7cd-498e-b91e-aa10816b9e84":{"type":"featured_collection","settings":{"collection":"lego"}},"dcfd8025-d2f6-4c36-b0c0-a4f9369ea717":{"type":"featured_collection","settings":{"collection":"hot-wheels"}},"7b8edbe4-3ec7-4361-9d87-0bdd3bfd1df5":{"type":"featured_collection","settings":{"collection":"nintendo"}},"72d4be2f-9342-4de7-9680-c065f0c322dc":{"type":"featured_collection","settings":{"collection":"fisher-price"}},"7c6bfa20-fc2f-4791-bae6-ee563245b813":{"type":"featured_collection","settings":{"collection":"matchbox"}},"template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-3":{"type":"featured_collection","settings":{"collection":"digimon"}},"template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-2":{"type":"featured_collection","settings":{"collection":"ben-10"}},"5aac8619-f696-417a-9bec-4ffded97f731":{"type":"featured_collection","settings":{"collection":"gundam"}},"02f84cf2-3983-4f7c-90d0-32718350e202":{"type":"featured_collection","settings":{"collection":"my-little-pony"}},"5246688c-9aae-408b-bae0-4a81c569a0e5":{"type":"featured_collection","settings":{"collection":"nerf"}},"template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-1":{"type":"featured_collection","settings":{"collection":"barbie"}},"008491d2-a966-4def-a4a3-6abbcd3604d6":{"type":"featured_collection","settings":{"collection":"monster-high"}},"898c8724-80df-4d71-b0b4-0283e20f5447":{"type":"featured_collection","settings":{"collection":"hasbro"}},"a2801e21-5547-4789-a280-4be2518d6243":{"type":"featured_collection","settings":{"collection":"star-wars"}},"221d8991-ad48-4dae-ac9e-c5a075cc151b":{"type":"featured_collection","settings":{"collection":"transformers"}}},"block_order":["65ca0314-a7cd-498e-b91e-aa10816b9e84","dcfd8025-d2f6-4c36-b0c0-a4f9369ea717","7b8edbe4-3ec7-4361-9d87-0bdd3bfd1df5","72d4be2f-9342-4de7-9680-c065f0c322dc","7c6bfa20-fc2f-4791-bae6-ee563245b813","template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-3","template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-2","5aac8619-f696-417a-9bec-4ffded97f731","02f84cf2-3983-4f7c-90d0-32718350e202","5246688c-9aae-408b-bae0-4a81c569a0e5","template--20799519359266__f995c9b4-80b2-409a-98d7-8130b13236e6-featured_collection-1","008491d2-a966-4def-a4a3-6abbcd3604d6","898c8724-80df-4d71-b0b4-0283e20f5447","a2801e21-5547-4789-a280-4be2518d6243","221d8991-ad48-4dae-ac9e-c5a075cc151b"],"settings":{"title":"Top Brand from our Collections","heading_size":"h1","image_ratio":"square","columns_desktop":5,"color_scheme":"","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"2d7c1a79-fee9-4ea0-879e-6cff1fa672c8":{"type":"image-banner","blocks":{"template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-heading-1":{"type":"heading","settings":{"heading":"Accessible Shopify","heading_size":"h0"}},"template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-text-1":{"type":"text","settings":{"text":"Ananyoo offers ADA compliance web design and accessibility Services. Accessible themes helps build accessible websites quickly on popular content management systems platforms like WordPress, Shopify, Webflow & BigCommerce.","text_style":"body"}},"template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-buttons-1":{"type":"buttons","settings":{"button_label_1":"View More","button_link_1":"https:\/\/ananyoo.com","button_style_secondary_1":false,"button_label_2":"Get in Touch","button_link_2":"https:\/\/ananyoo.com\/contact-us\/","button_style_secondary_2":false}}},"block_order":["template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-heading-1","template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-text-1","template--20799519359266__2d7c1a79-fee9-4ea0-879e-6cff1fa672c8-buttons-1"],"settings":{"image":"shopify:\/\/shop_images\/disabled-basketball-male-player.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"d0283f86-fb4c-416c-a7be-a5866091d8d7":{"type":"featured-blog","settings":{"heading":"Latest Kids Posts","heading_size":"h1","blog":"news","post_limit":3,"columns_desktop":3,"color_scheme":"","show_image":true,"show_date":true,"show_author":true,"show_view_all":true,"padding_top":36,"padding_bottom":36}}},"order":["75947161-729a-4485-92ed-79398abc0b9a","featured_collection","0454e9c7-14e9-4f5f-a3f3-bc8e549aaa3b","596c5134-608b-48ef-8d3b-67daf6e002f7","f995c9b4-80b2-409a-98d7-8130b13236e6","2d7c1a79-fee9-4ea0-879e-6cff1fa672c8","d0283f86-fb4c-416c-a7be-a5866091d8d7"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "image_behavior": "none",
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection"
+  ]
+}
